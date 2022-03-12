@@ -1,0 +1,125 @@
+body{
+    background-image: url(fonddal.jpg);
+    background-repeat: repeat;
+}
+.lep{
+    background-color: white;
+    border: solid;
+    border-color: rgb(100, 86, 86);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.beta{
+    width: 100%;
+    height: 5vh;
+}
+.five{
+    width: 100%;
+    margin: auto;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.partd{
+    text-align: center;
+    
+}
+body{
+    background-color: white;
+}
+.five{
+    background: rgb(100, 86, 86);
+    padding: 15px;
+    height: 20px;
+    text-align: right;
+}
+.bun{
+    border-style: dashed;
+    width: 50%;
+    text-align: right;
+}
+.five ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 110px;
+    position: relative;
+    
+}
+.five ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.five ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: white ;
+    position: absolute;
+    left: 0;
+    bottom: -10px;   
+    transition: 0.5s;
+}
+.five ul li:hover::after{
+    width: 100%;
+
+}
+.mou{
+    background-color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: Cooper ;
+    color: rgb(100, 86, 86);
+    background-color: white;
+    text-align: center;
+    font-size: 40pt;
+}
+.para{
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 15px;
+}
+h3{
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: calibri ;
+}
+#lok>img{
+    width: 850px;
+    height: 400px;
+    background : white;
+}
+#lok{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px
+}
+#lik>img{
+    width: 850px;
+    height: 650px;
+    background : white;
+}
+#lik{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px
+}
+.bex{
+    color: white;
+    background-color:  rgb(100, 86, 86);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+    font-size: 30pt;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}

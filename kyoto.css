@@ -1,0 +1,181 @@
+body{
+    background-image: url(fonddal.jpg);
+    background-repeat: repeat;
+}
+.fi{
+    width: 100%;
+    height: 5vh;
+}
+.pent{
+    background-color: white;
+    border: solid;
+    border-color: rgb(100, 86, 86);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+video{
+   max-width: 100%;
+   height: auto;
+}
+.four{
+    width: 100%;
+    margin: auto;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+h1{
+    background-color: white;
+    text-align: center;
+    font-family: Cooper ;
+    color: rgb(100, 86, 86);
+    font-size: 40pt;
+}
+.partt{
+    text-align: center;
+}
+body{
+    background-color: white;
+    text-align: center;
+}
+.four{
+    background: rgb(100, 86, 86);
+    padding: 15px;
+    height: 20px;
+    text-align: right;
+}
+.buny{
+    border-style: dashed;
+    width: 50%;
+    text-align: right;
+}
+.four ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 110px;
+    position: relative;
+    
+}
+.four ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.four ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: white;
+    position: absolute;
+    left: 0;
+    bottom: -10px;   
+    transition: 0.5s;
+}
+.four ul li:hover::after{
+    width: 100%;
+
+}
+h3{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: calibri ;
+}
+.kes{
+    
+    color: white;
+    background-color:  rgb(100, 86, 86);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#vil>img{
+    width: 850px;
+    height: 400px;
+    background : white;
+
+}
+#cuisine>img{
+    width: 850px;
+    height: 400px;
+}
+#cat>img{
+    width: 850px;
+    height: 400px;
+}
+
+.vide{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bak{
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 15px;
+
+}
+#vil{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.gun{
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 15px;
+}
+#cuisine{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#cat{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.fli
+{
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.nini{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    border-radius: 15px;
+}
+h2{
+    font-size: 30pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+#monta>img{
+    width: 850px;
+    height: 900px;
+    background : white;
+}
+.sad{
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 15px;
+}
+.fli{
+    background-color: rgb(207, 193, 173);
+    border: solid;
+    border-color:rgb(207, 193, 173) ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 15px;
+}
